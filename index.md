@@ -4,7 +4,7 @@ layout: default
 
 I'm a first-year PhD student in Computer Science and Engineering at UC San Diego working with Professor Ndapa Nakashole.
 
-My research centers on natural language processing, especially I’m focusing on weakly supervised learning and its interpretability, and joint learning methods for multi-label classification with autoregressive models. I’m also interested in knowledge graph representations and the use of graph-structural data for various NLP applications.
+My research centers on natural language processing, especially I’m focusing on weakly supervised learning and its interpretability, and joint learning methods for entity retrieval using autoregressive generation models. I’m also interested in knowledge graph representations and the use of graph-structured data for various NLP applications.
 
 Prior to UCSD, I worked as a researcher in Natural Language Processing lab at Sungkyunkwan University with Prof. Youngjoong Ko. I received B.S. and M.S. in Computer Science and Engineering at Sogang University. After my undergraduate, I worked at Coupang as a software engineer.
 
@@ -15,7 +15,7 @@ Prior to UCSD, I worked as a researcher in Natural Language Processing lab at Su
 
 **Conference Proceedings**
 
-* *Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary.* **Bosung Kim**, Hyewon Choi, Haeun Yu, and Youngjoong Ko. 2021 (CIKM 2021)
+* *Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary.* **Bosung Kim**, Hyewon Choi, Haeun Yu, and Youngjoong Ko. 2021 (CIKM 2021) [[link]](https://dl.acm.org/doi/abs/10.1145/3459637.3482382)
 
 * *Commonsense Knowledge Augmentation for Low-Resource Languages via Adversarial Learning.* **Bosung Kim**\*, Juae Kim\*, Youngjoong Ko, and Jungyun Seo. 2020. (AAAI 2021) (\*Equal contribution) [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/16793) [[code]](https://github.com/bosung/knowledge-aug-adv)
 
@@ -23,4 +23,4 @@ Prior to UCSD, I worked as a researcher in Natural Language Processing lab at Su
 
 **Journal Articles**
 
-* *Novel Regularization Method for the Class Imbalance Problem.* **Bosung Kim**, Youngjoong Ko, and Jungyun Seo. 2022 (Expert Systems With Applications, Elsevier)
+* *Novel Regularization Method for the Class Imbalance Problem.* **Bosung Kim**, Youngjoong Ko, and Jungyun Seo. 2022 (Expert Systems With Applications, Elsevier) [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0957417421013245)
