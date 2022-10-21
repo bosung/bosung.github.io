@@ -15,7 +15,7 @@ Prior to UCSD, I worked as a researcher in Natural Language Processing lab at Su
 
 **Conference Proceedings**
 
-* *Data Augmentation for Rare Symptoms in Vaccine Side-Effect Detection.* **Bosung Kim** and Ndapa Nakashole. 2021 (BioNLP 2022) [[pdf]](https://aclanthology.org/2022.bionlp-1.29.pdf) [[code]](https://github.com/bosung/DA-VSED)
+* *Data Augmentation for Rare Symptoms in Vaccine Side-Effect Detection.* **Bosung Kim** and Ndapa Nakashole. 2022 (BioNLP 2022) [[pdf]](https://aclanthology.org/2022.bionlp-1.29.pdf) [[code]](https://github.com/bosung/DA-VSED)
 
 * *Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary.* **Bosung Kim**, Hyewon Choi, Haeun Yu, and Youngjoong Ko. 2021 (CIKM 2021) [[link]](https://dl.acm.org/doi/abs/10.1145/3459637.3482382)
 
