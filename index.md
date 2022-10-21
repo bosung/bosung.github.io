@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a first-year PhD student in Computer Science and Engineering at UC San Diego working with Professor Ndapa Nakashole.
+I'm a second-year PhD student in Computer Science and Engineering at UC San Diego working with Professor [Ndapa Nakashole](ndapa.us).
 
 My research centers on natural language processing, especially I’m focusing on weakly supervised learning and its interpretability, and joint learning methods for entity retrieval using autoregressive generation models. I’m also interested in knowledge graph representations and the use of graph-structured data for various NLP applications.
 
@@ -14,6 +14,8 @@ Prior to UCSD, I worked as a researcher in Natural Language Processing lab at Su
 # [](#header-1)Publications
 
 **Conference Proceedings**
+
+* *Data Augmentation for Rare Symptoms in Vaccine Side-Effect Detection.* **Bosung Kim** and Ndapa Nakashole. 2021 (BioNLP 2022) [[pdf]](https://aclanthology.org/2022.bionlp-1.29.pdf) [[code]](https://github.com/bosung/DA-VSED)
 
 * *Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary.* **Bosung Kim**, Hyewon Choi, Haeun Yu, and Youngjoong Ko. 2021 (CIKM 2021) [[link]](https://dl.acm.org/doi/abs/10.1145/3459637.3482382)
 
