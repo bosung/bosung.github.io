@@ -107,11 +107,11 @@ img {
 
 .round-image {  
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 20px;
   border-radius: 50%;
   width: 100%;
   max-width: 150px; // Adjust as needed
-  height: auto;
+  height: 100%;
 }
 
 header {
