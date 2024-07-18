@@ -4,7 +4,7 @@ layout: default
 
 Hi!👋 
 
-I'm a third-year PhD student in Computer Science and Engineering at UC San Diego, working with Professor [Ndapa Nakashole](ndapa.us).
+I'm a third-year PhD student in Computer Science and Engineering at UC San Diego.
 
 My research focuses on natural language processing and generative AI. I am particularly interested in leveraging Large Language Models (LLMs) for real-world applications and extracting knowledge from transformer and state space model based LLMs. I'm also keen on enhancing the textual capabilities of multimodal models, especially in text-to-image generation models.
 
