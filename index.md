@@ -2,11 +2,18 @@
 layout: default
 ---
 
-Hi!👋 
+Hi!👋
 
-I'm a third-year PhD student in Computer Science and Engineering at UC San Diego.
+I'm a PhD student in Computer Science and Engineering at UC San Diego🌴☀️🏄🏻‍♀️🌊, advised by [Prithviraj](https://prithvirajva.com/) in the [PEARLS Lab](https://pearls-lab.github.io/)🧋.
 
-My research focuses on natural language processing and generative AI. I am particularly interested in leveraging Large Language Models (LLMs) for real-world applications and extracting knowledge from transformer and state space model based LLMs. I'm also keen on enhancing the textual capabilities of multimodal models, especially in text-to-image generation models.
+
+My research centers on building AI agents🤖 that can understand and act over long-context inputs, with a focus on multimodal and embodied settings.
+
+I'm particularly interested in how agents can perform complex and long-horizon tasks that require interacting with environments over extended periods in ways that, while natural for humans, remain challenging for machines.
+
+The broader goal of my work is to develop memory-augmented agents capable of reasoning, planning, and adapting across time with rich contextual information.
+
+I began my research journey in natural language processing and generative AI, especially in leveraging LLMs for knowledge extraction. I've had the opportunity to apply this work during internships at AWS AI Lab, Megaton Labs, and Ancestry, where I focused on LLM-based structured information extraction.
 
 Before UCSD, I worked as a software engineer on the Query Understanding team at [Coupang](https://en.wikipedia.org/wiki/Coupang) (the largest e-commerce company in Korea), developing recommendation systems using large-scale user behavior data and product descriptions. I hold a B.S. and M.S. in Computer Science and Engineering from Sogang University.
 
