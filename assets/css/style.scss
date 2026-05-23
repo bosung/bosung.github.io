@@ -2,3 +2,15 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.inline-logo {
+  height: 0.95em;
+  width: auto;
+  vertical-align: -0.12em;
+  margin-left: 0.2em;
+  display: inline;
+}
+
+.inline-logo--wide {
+  height: 0.85em;
+}
