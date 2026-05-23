@@ -2,6 +2,96 @@
 ---
 
 @import "jekyll-theme-minimal";
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600&display=swap');
+
+.home-layout {
+  width: 900px;
+  max-width: 100%;
+}
+
+.home-layout .page-top {
+  display: flex;
+  gap: 48px;
+  align-items: flex-start;
+  margin-bottom: 48px;
+  padding-bottom: 32px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.home-layout .profile-header {
+  position: static;
+  float: none;
+  width: 200px;
+  flex-shrink: 0;
+  text-align: center;
+}
+
+.home-layout .profile-header h1 {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.home-layout .profile-header p {
+  margin-bottom: 12px;
+}
+
+.home-layout .intro-section {
+  flex: 1;
+  min-width: 0;
+  float: none;
+  width: auto;
+  padding: 0;
+}
+
+.home-layout .page-main {
+  float: none;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+.home-layout footer {
+  position: static;
+  float: none;
+  width: 100%;
+  clear: both;
+  margin-top: 24px;
+}
+
+@media print, screen and (max-width: 960px) {
+  .home-layout {
+    width: auto;
+  }
+
+  .home-layout .page-top {
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+  }
+
+  .home-layout .profile-header {
+    width: 100%;
+    max-width: 280px;
+  }
+
+  .home-layout .intro-section {
+    width: 100%;
+  }
+}
+
+.pub {
+  margin-bottom: 1.5em;
+
+  p {
+    margin: 0.25em 0;
+  }
+
+  p strong:first-of-type {
+    font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: 1.2em;
+    color: #222;
+  }
+}
 
 .inline-logo {
   height: 0.95em;

@@ -1,18 +1,6 @@
 ---
-layout: default
+layout: home
 ---
-
-Hi!👋
-
-I'm a PhD student in Computer Science and Engineering at UC San Diego🌴☀️🏄🏻‍♀️🌊, advised by [Prithviraj](https://prithvirajva.com/) in the [PEARLS Lab](https://pearls-lab.github.io/)🧋.
-
-My research centers on building AI agents🤖 that can understand and act over long-context inputs, with a focus on multimodal and embodied settings. I'm particularly interested in how agents can perform complex and long-horizon tasks that require interacting with environments over extended periods in ways that, while natural for humans, remain challenging for machines.
-
-I began my research journey in natural language processing and generative AI, especially in leveraging LLMs for knowledge extraction. I'm currently interning at NVIDIA Research <img src="/assets/logos/nvidia.svg" alt="NVIDIA logo" class="inline-logo" />. Previously, I've interned at Microsoft Research <img src="/assets/logos/microsoft.svg" alt="Microsoft logo" class="inline-logo" />, AWS AI Lab <img src="/assets/logos/aws.svg" alt="AWS logo" class="inline-logo inline-logo--wide" />, and Megagon Labs.
-
-[[CV]](assets/CV.pdf)
-[[Google scholar]](https://scholar.google.com/citations?user=gbFNtPUAAAAJ&hl=en)
-[[X]](https://x.com/bosungkim17)
 
 # News
 
@@ -24,56 +12,92 @@ I began my research journey in natural language processing and generative AI, es
 
 # Publications
 
-- *How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning.*
+<div class="pub" markdown="1">
 
-Bosung Kim*, Ruiyi Wang*, David Acuna, Jaehun Jung, Alexander Trevithick, Brandon Cui, Yejin Choi, and Prithviraj Ammanabrolu. 2026.  
-(Equal contribution) [📄🔗](https://arxiv.org/abs/2605.17077)
+**How to Instruct Your Robot: Dense Language Annotations Power Robot Policy Learning** [📄](https://arxiv.org/abs/2605.17077) [🔗](https://pearls-lab.github.io/projects/demian/)  
+**Bosung Kim**\*, Ruiyi Wang\*, David Acuna, Jaehun Jung, Alexander Trevithick, Brandon Cui, Yejin Choi, Prithviraj Ammanabrolu  
+*arXiv preprint*, 2026 · \* equal contribution
 
-- *DECADE: Evaluating Evolving Long-Term Memory in Personalized Conversational AI Assistants.*
+</div>
 
-Bosung Kim, Hao Cheng, Yuan Gao, Prithviraj Ammanabrolu, Michel Galley, Rachel Rong, and Jianfeng Gao.
+<div class="pub" markdown="1">
 
-- *Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning.*
+**DECADE: Evaluating Evolving Long-Term Memory in Personalized Conversational AI Assistants**  
+**Bosung Kim**, Hao Cheng, Yuan Gao, Prithviraj Ammanabrolu, Michel Galley, Rachel Rong, Jianfeng Gao  
+*Under review*, 2026
 
-Bosung Kim and Prithviraj Ammanabrolu. 2025.
-[📄🔗](https://arxiv.org/pdf/2505.16928)
+</div>
 
-- *SYMPTOMIFY: Transforming Symptom Annotations with Language Model Knowledge Harvesting.*
+<div class="pub" markdown="1">
 
-Bosung Kim and Ndapa Nakashole. 2023.
-(EMNLP Findings 2023) [📄💻](https://aclanthology.org/2023.findings-emnlp.781)
+**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning** [📄](https://arxiv.org/abs/2505.16928) [🔗](https://pearls-lab.github.io/infini-thor/)  
+**Bosung Kim**, Prithviraj Ammanabrolu  
+*arXiv preprint*, 2025
 
-- *Zero-shot Triplet Extraction by Template Infilling.*
+</div>
 
-Bosung Kim, Hayate Iso, Nikita Bhutani, Estevam Hruschka, Ndapa Nakashole, and Tom Mitchell. 2023.
-(IJCNLP-AACL 2023) [📄💻](https://arxiv.org/abs/2212.10708)
+<div class="pub" markdown="1">
 
-- *Chride at SemEval-2023 Task 10: Fine-tuned DebertaV3 on Detection of Online Sexism with Hierarchical Loss.*
-Letian Peng and Bosung Kim. 2023.
-(ACL 2023 SemEval Workshop) [📄💻](https://aclanthology.org/2023.semeval-1.232)
-- *Data Augmentation for Rare Symptoms in Vaccine Side-Effect Detection.*
+**SYMPTOMIFY: Transforming Symptom Annotations with Language Model Knowledge Harvesting** [📄](https://aclanthology.org/2023.findings-emnlp.781)  
+**Bosung Kim**, Ndapa Nakashole  
+*EMNLP Findings*, 2023
 
-Bosung Kim and Ndapa Nakashole. 2022.
-(ACL 2022 BioNLP Workshop) [📄💻](https://aclanthology.org/2022.bionlp-1.29.pdf)
+</div>
 
-- *Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary.*
+<div class="pub" markdown="1">
 
-Bosung Kim, Hyewon Choi, Haeun Yu, and Youngjoong Ko. 2021.
-(CIKM 2021) [📄](https://dl.acm.org/doi/abs/10.1145/3459637.3482382)
+**Zero-shot Triplet Extraction by Template Infilling** [📄](https://arxiv.org/abs/2212.10708) [🔗](https://megagonlabs.medium.com/zero-shot-triplet-extraction-via-template-infilling-2dce3fe1604f)  
+**Bosung Kim**, Hayate Iso, Nikita Bhutani, Estevam Hruschka, Ndapa Nakashole, Tom Mitchell  
+*IJCNLP-AACL*, 2023
 
-- *Commonsense Knowledge Augmentation for Low-Resource Languages via Adversarial Learning.*
+</div>
 
-Bosung Kim, Juae Kim, Youngjoong Ko, and Jungyun Seo. 2020.
-(AAAI 2021) (Equal contribution) [📄💻](https://ojs.aaai.org/index.php/AAAI/article/view/16793)
+<div class="pub" markdown="1">
 
-- *Multi-task learning for Knowledge Graph Completion using Pre-trained Language.*
+**Chride at SemEval-2023 Task 10: Fine-tuned DebertaV3 on Detection of Online Sexism with Hierarchical Loss** [📄](https://aclanthology.org/2023.semeval-1.232)  
+Letian Peng, **Bosung Kim**  
+*ACL SemEval Workshop*, 2023
 
-Bosung Kim, Taesuk Hong, Youngjoong Ko, and Jungyun Seo. 2020.
-(COLING 2020) [📄💻](https://www.aclweb.org/anthology/2020.coling-main.153.pdf)
+</div>
+
+<div class="pub" markdown="1">
+
+**Data Augmentation for Rare Symptoms in Vaccine Side-Effect Detection** [📄](https://aclanthology.org/2022.bionlp-1.29.pdf)  
+**Bosung Kim**, Ndapa Nakashole  
+*ACL BioNLP Workshop*, 2022
+
+</div>
+
+<div class="pub" markdown="1">
+
+**Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary** [📄](https://dl.acm.org/doi/abs/10.1145/3459637.3482382)  
+**Bosung Kim**, Hyewon Choi, Haeun Yu, Youngjoong Ko  
+*CIKM*, 2021
+
+</div>
+
+<div class="pub" markdown="1">
+
+**Commonsense Knowledge Augmentation for Low-Resource Languages via Adversarial Learning** [📄](https://ojs.aaai.org/index.php/AAAI/article/view/16793)  
+**Bosung Kim**\*, Juae Kim\*, Youngjoong Ko, Jungyun Seo  
+*AAAI*, 2021 · \* equal contribution
+
+</div>
+
+<div class="pub" markdown="1">
+
+**Multi-task learning for Knowledge Graph Completion using Pre-trained Language** [📄](https://www.aclweb.org/anthology/2020.coling-main.153.pdf)  
+**Bosung Kim**, Taesuk Hong, Youngjoong Ko, Jungyun Seo  
+*COLING*, 2020
+
+</div>
 
 ### Journal Articles
 
-- *Novel Regularization Method for the Class Imbalance Problem.*
+<div class="pub" markdown="1">
 
-Bosung Kim, Youngjoong Ko, and Jungyun Seo. 2022.
-Expert Systems With Applications, Elsevier) [📄](https://www.sciencedirect.com/science/article/abs/pii/S0957417421013245)
+**Novel Regularization Method for the Class Imbalance Problem** [📄](https://www.sciencedirect.com/science/article/abs/pii/S0957417421013245)  
+**Bosung Kim**, Youngjoong Ko, Jungyun Seo  
+*Expert Systems with Applications*, 2022
+
+</div>
