@@ -1,6 +1,6 @@
 Hi!👋
 
-I'm a PhD student in Computer Science and Engineering at UC San Diego🌴☀️🏄🏻‍♀️🌊, advised by [Prithviraj](https://prithvirajva.com/) in the [PEARLS Lab](https://pearls-lab.github.io/)🧋.
+I'm a PhD candidate in Computer Science and Engineering at UC San Diego🌴☀️🏄🏻‍♀️🌊, advised by [Prithviraj](https://prithvirajva.com/) in the [PEARLS Lab](https://pearls-lab.github.io/)🧋.
 
 My research centers on building AI agents🤖 that can understand and act over long-context inputs, with a focus on multimodal and embodied settings. I'm particularly interested in how agents can perform complex and long-horizon tasks that require interacting with environments over extended periods in ways that, while natural for humans, remain challenging for machines.
 
