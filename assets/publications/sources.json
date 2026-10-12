@@ -1,0 +1,128 @@
+[
+  {
+    "file": "bridging.webp",
+    "paper_or_project": "https://pearls-lab.github.io/2bridge/",
+    "description": "GPT-6 Astra connected to four robot tasks: claw machine, stacking cups, folding cloth, and closing a lid.",
+    "source": "/Users/bosung/workspace/bridge-web/source/gifs/",
+    "processing": "Approved composite with OpenAI logo, model name, four arrows, and four original task GIFs. Poster at 4.5 seconds.",
+    "animation": {
+      "file": "bridging-demo.gif",
+      "duration_seconds": 10,
+      "fps": 10,
+      "source_files": [
+        "task_a_claw_machine.gif",
+        "task_b_stack_cups.gif",
+        "task_c_fold_cloth.gif",
+        "task_d_close_lid.gif"
+      ],
+      "logo_source": "OpenAI Blossom icon from Microsoft VS Code codicons (src/icons/openai.svg)"
+    }
+  },
+  {
+    "file": "demian.webp",
+    "paper_or_project": "https://pearls-lab.github.io/demian/",
+    "description": "DeMiAn highlight video, first 13 seconds.",
+    "source": "/Users/bosung/Downloads/demian_30s.mp4",
+    "animation": {
+      "file": "demian-demo.gif",
+      "source": "/Users/bosung/Downloads/demian_30s.mp4",
+      "start_seconds": 0,
+      "duration_seconds": 13,
+      "fps": 12
+    },
+    "processing": "Approved first 13 seconds, resized to 640x360; static poster at 3 seconds."
+  },
+  {
+    "file": "infini.webp",
+    "paper_or_project": "https://pearls-lab.github.io/infini-thor/",
+    "description": "First-person exploration of a household environment in the long-context \u221e-THOR benchmark.",
+    "source": "https://pearls-lab.github.io/infini-thor/assets/video/hero_look2.mp4",
+    "animation": {
+      "file": "infini-demo.gif",
+      "source": "https://pearls-lab.github.io/infini-thor/assets/video/hero_look2.mp4",
+      "start_seconds": 15,
+      "duration_seconds": 8,
+      "fps": 8
+    }
+  },
+  {
+    "file": "zshot.webp",
+    "paper_or_project": "https://arxiv.org/abs/2212.10708",
+    "description": "ZETT pipeline: fine-tuning and zero-shot relation extraction by template infilling, scoring, and ranking.",
+    "source": "https://arxiv.org/pdf/2212.10708",
+    "page": 3,
+    "figure": 2,
+    "processing": "Figure cropped from the paper, excluding caption; resized and encoded as WebP.",
+    "animation": {
+      "file": "zshot-demo.gif",
+      "source": "https://arxiv.org/pdf/2212.10708",
+      "page": 3,
+      "figure": 2,
+      "width": 960,
+      "height": 560,
+      "duration_seconds": 21.58,
+      "full_figure_hold_seconds": 4.0,
+      "frames": 55,
+      "steps": 19,
+      "processing": "Higher-resolution rendering of the same featured figure. Original components and arrows appear cumulatively in zoomed close-ups, with a context overview and transitions between stages, ending on the complete original figure."
+    }
+  },
+  {
+    "file": "commonsense.webp",
+    "paper_or_project": "https://ojs.aaai.org/index.php/AAAI/article/view/16793",
+    "description": "Commonsense knowledge augmentation through candidate generation, adversarial validity scoring, and augmentation.",
+    "source": "https://cdn.aaai.org/ojs/16793/16793-13-20287-1-2-20210518.pdf",
+    "page": 2,
+    "figure": 1,
+    "processing": "Figure cropped from the paper, excluding caption; resized and encoded as WebP.",
+    "animation": {
+      "file": "commonsense-demo.gif",
+      "source": "https://cdn.aaai.org/ojs/16793/16793-13-20287-1-2-20210518.pdf",
+      "page": 2,
+      "figure": 1,
+      "width": 960,
+      "height": 560,
+      "duration_seconds": 32.06,
+      "full_figure_hold_seconds": 4.0,
+      "frames": 74,
+      "steps": 36,
+      "processing": "Higher-resolution rendering of the same featured figure. Original components and arrows appear cumulatively in zoomed close-ups, with a context overview and transitions between stages, ending on the complete original figure."
+    }
+  },
+  {
+    "file": "cikm.webp",
+    "paper_or_project": "https://dl.acm.org/doi/10.1145/3459637.3482382",
+    "source": "https://dl.acm.org/doi/pdf/10.1145/3459637.3482382?download=true",
+    "page": 3,
+    "figure": 2,
+    "description": "Graph-based query reformulation pipeline.",
+    "processing": "Figure cropped from the publicly available paper, excluding caption; resized and encoded as WebP.",
+    "animation": {
+      "file": "cikm-demo.gif",
+      "source": "https://dl.acm.org/doi/pdf/10.1145/3459637.3482382?download=true",
+      "page": 3,
+      "figure": 2,
+      "duration_seconds": 23.97,
+      "full_figure_hold_seconds": 4,
+      "frames": 50,
+      "processing": "Higher-resolution rendering of the same featured Figure 2. Components and original connectors appear cumulatively in four close-ups, with a context overview and transitions between stages, ending on the complete original figure."
+    }
+  },
+  {
+    "file": "coling.webp",
+    "paper_or_project": "https://aclanthology.org/2020.coling-main.153/",
+    "description": "Shared BERT encoder with link prediction, relation prediction, and relevance ranking tasks.",
+    "source": "https://aclanthology.org/2020.coling-main.153.pdf",
+    "page": 2,
+    "figure": 1,
+    "processing": "Figure cropped from the paper, excluding caption; resized and encoded as WebP."
+  },
+  {
+    "file": "regularization.webp",
+    "paper_or_project": "https://www.sciencedirect.com/science/article/abs/pii/S0957417421013245",
+    "description": "Figure 4: class-conditional output distributions for positive and negative examples.",
+    "source": "https://ars.els-cdn.com/content/image/1-s2.0-S0957417421013245-gr4.jpg",
+    "figure": 4,
+    "processing": "Complete publisher Figure 4, encoded as WebP without cropping."
+  }
+]
